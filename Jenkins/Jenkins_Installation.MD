@@ -50,7 +50,7 @@ Jenkins is a self-contained Java-based program, ready to run out-of-the-box, wit
 
    # Setup Jenkins to start at boot,
    chkconfig jenkins on
-   ```
+   ```sudo 
 
    ### Accessing Jenkins
    By default jenkins runs at port `8080`, You can access jenkins at
